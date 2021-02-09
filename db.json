@@ -7,7 +7,7 @@
 	"address": "Usk Road, London SW11",
 	"images": ["https://lc.zoocdn.com/d2d372c28604ab1eaba8079910fcadfb77ce0fb6.jpg", "https://lc.zoocdn.com/ba2b5fc833eb75aeeb0fa8e81fc9e09761fb50fe.jpg", "https://lc.zoocdn.com/541e68d3ce2d90210142af0a901e9fba8a584bbe.jpg","https://lc.zoocdn.com/ecb68a6ab7444257ad05258e694a778abbdfc2eb.jpg", "https://lc.zoocdn.com/5d38f8fcbb3696553db809c51e84cf747c69569b.jpg"],
 	    "price":{
-		    "currency":"GBP",
+		    "currency":"£",
 		    "amount":"400000"
 	    },
 	"features": {
