@@ -2,17 +2,26 @@
   "listings": [
     {
       "id": 1,
-      "headline": "test",
-	"description": "",
-	"address": "",
+      "headline": "3 Bed flat for sale",
+	"description": "Spanning over 625 square feet which gives an exceptional pound per square foot price of £648, this great flat in SW11 is an ideal purchase for a first time buyer looking to take advantage of the stamp duty change. The property is in a great location and is a short stroll from the Thames Walk which is one of the most scenic walks in London, it is also ideal for cycling into the City along the Thames path.",
+	"address": "Usk Road, London SW11",
 	"images": [],
+	    "price":{
+		    "currency":"GBP",
+		    "amount":"400000"
+	    },
 	"features": {
-		"details": ["1"],
-		"bedroom": 2,
+		"details": ["Two double bedrooms",
+"Large reception room",
+"Balcony",
+"Sought after location",
+"Fitted Kitchen",
+"624 Sqe Ft"],
+		"bedroom": 3,
 		"bath": 1,
 		"commonArea": 1
 	},
-	"postedBy": "",
+	"postedBy": "Tushar",
 	"postedOn": "",
 	"isAvailable": true
     }
