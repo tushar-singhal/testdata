@@ -2,14 +2,5 @@
 	"headline": "test",
 	"description": "",
 	"address": "",
-	"images": [],
-	"features": {
-		"details": ["1"],
-		"bedroom": 2,
-		"bath": 1,
-		"commonArea": 1,
-		"postedBy": "",
-		"postedOn": "",
-		"isAvailable": true
-	}
+	"images": []
 }
