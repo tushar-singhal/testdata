@@ -1,0 +1,13 @@
+{
+	"headline": "test",
+	"description": "",
+	"address": "",
+	"images": [],
+	"features": ["1"],
+	"numberOfBeds": 2,
+	"numberOfBath": 1,
+	"numberOfLivingRoom": 1,
+	"postedBy": "",
+	"postedOn": "",
+	"isAvailable": true
+}
